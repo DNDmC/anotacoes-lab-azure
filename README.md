@@ -185,3 +185,32 @@ Agora entraremos nos benefícios da nuvem por um completo, abordando a alta disp
 * Usando API's.
 
 * Usando PowerShell.
+
+# Tipos de Serviços de Nuvem na Azure
+
+Nessa parte iremos descrever e entender como cada um dos modelos de serviços se comportam (IaaS, PaaS, SaaS), vamos entender também quais ão nossas responsabilidades e as responsabilidades dos provedores para esses 3 modelos de serviços e identificar o caso de usos apropriados para cada serviço de nuvem (IaaS, PaaS, SaaS)
+
+***
+
+## Infraestrutura como Serviço (IaaS)
+
+* Quando falamos de serviços de nuvem IaaS acaba sendo o serviço mais utilizado.
+
+* É o serviço de nuvem mais flexível, o cliente configura e gerencia o hardware para seu aplicativo.
+
+* No modelo de Infraestrutura como serviço se tem mais acesso no contexto de personalização de recurso, se tendo mais liberdade para trabalhar.
+
+## Plataforma como Serviço (PaaS)
+
+* O modelo PaaS é focado no desenvolvimento de aplicativos
+
+* Em plataforma como serviço um ambiente para criação é ofernecido, o teste e a implantação de aplicativos de software, sem focar no gerenciamento da infraestrutura subjacente.
+
+## Software como Serviço (SaaS)
+
+* O SaaS é smpre focado para o usuário final.
+
+* Os usuários se conectam e usam aplicativos com base em nuvem pela internet: por exemplo, Microsoft Office 365, email e calendários.
+
+# Modelo de Responsabilidade Compartilhada
+
