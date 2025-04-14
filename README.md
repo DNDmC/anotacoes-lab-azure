@@ -214,3 +214,4 @@ Nessa parte iremos descrever e entender como cada um dos modelos de serviços se
 
 # Modelo de Responsabilidade Compartilhada
 
+![Modelo de Responsabilidade](images/modelo_responsabilidade.webp)
